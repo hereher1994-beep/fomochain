@@ -29,12 +29,12 @@ export default function AlphaGroupBanner() {
             To join the <span className="text-yellow-300 uppercase tracking-wide font-black">Alpha Group</span> — buy{' '}
             <span className="text-yellow-300 font-black">$MITCH</span> on{' '}
             <a
-              href="https://ponsfamily.com"
+              href="https://flap.sh"
               target="_blank"
               rel="noopener noreferrer"
               className="text-yellow-200 font-black underline underline-offset-2 hover:text-white transition-colors"
             >
-              ponsfamily.com
+              flap.sh
             </a>
           </span>
           <span className="text-xl">👑</span>
